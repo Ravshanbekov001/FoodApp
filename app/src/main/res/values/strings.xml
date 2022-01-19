@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Food App</string>
+    <string name="taom_qoshish">Taom qo\'shish</string>
+    <string name="menyu">Menyu</string>
+    <string name="barcha_taomlar">Barcha taomlar</string>
+    <string name="taom_qoshish2">Taom qo\'shish</string>
+    <string name="taom_nomi">Taom nomi</string>
+    <string name="kerakli_mahsulotlar">Kerakli mahsulotlar</string>
+    <string name="saqlash">Saqlash</string>
+    <string name="taom_tayyorlanish_tartibi">Taom tayyorlanish tartibi</string>
+</resources>
